@@ -1,1 +1,2 @@
 tszk pull request test 2
+rebaseテストのために追加しました。
